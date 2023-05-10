@@ -13,6 +13,9 @@ body {
 h3 {
     font-size: 30px;
 }
+.container {
+    width: 400px;
+}
 #beer-button {
     background-color: rgb(254, 122, 122);
     color: rgb(255, 255, 255);
