@@ -16,6 +16,9 @@ h3 {
 .container {
     width: 400px;
 }
+#beer-image {
+    max-height: 300px;
+}
 #beer-button {
     background-color: rgb(254, 122, 122);
     color: rgb(255, 255, 255);
